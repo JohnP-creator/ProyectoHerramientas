@@ -1,0 +1,11 @@
+C:\Users\jguti\source\repos\PresentacionHerramientas\bin\Debug\PresentacionHerramientas.exe.config
+C:\Users\jguti\source\repos\PresentacionHerramientas\bin\Debug\PresentacionHerramientas.exe
+C:\Users\jguti\source\repos\PresentacionHerramientas\bin\Debug\PresentacionHerramientas.pdb
+C:\Users\jguti\source\repos\PresentacionHerramientas\obj\Debug\PresentacionHerramientas.csproj.AssemblyReference.cache
+C:\Users\jguti\source\repos\PresentacionHerramientas\obj\Debug\PresentacionHerramientas.csproj.SuggestedBindingRedirects.cache
+C:\Users\jguti\source\repos\PresentacionHerramientas\obj\Debug\PresentacionHerramientas.Form1.resources
+C:\Users\jguti\source\repos\PresentacionHerramientas\obj\Debug\PresentacionHerramientas.Properties.Resources.resources
+C:\Users\jguti\source\repos\PresentacionHerramientas\obj\Debug\PresentacionHerramientas.csproj.GenerateResource.cache
+C:\Users\jguti\source\repos\PresentacionHerramientas\obj\Debug\PresentacionHerramientas.csproj.CoreCompileInputs.cache
+C:\Users\jguti\source\repos\PresentacionHerramientas\obj\Debug\PresentacionHerramientas.exe
+C:\Users\jguti\source\repos\PresentacionHerramientas\obj\Debug\PresentacionHerramientas.pdb
