@@ -79,5 +79,15 @@ namespace PresentacionHerramientas.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap REGISTRAR_uSUAIRO {
+            get {
+                object obj = ResourceManager.GetObject("REGISTRAR uSUAIRO", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }
