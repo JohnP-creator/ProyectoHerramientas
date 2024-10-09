@@ -83,6 +83,16 @@ namespace PresentacionHerramientas.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap NuevoFormulario {
+            get {
+                object obj = ResourceManager.GetObject("NuevoFormulario", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap REGISTRAR_uSUAIRO {
             get {
                 object obj = ResourceManager.GetObject("REGISTRAR uSUAIRO", resourceCulture);

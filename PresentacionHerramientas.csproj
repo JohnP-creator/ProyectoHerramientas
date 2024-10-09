@@ -52,6 +52,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSesion.Designer.cs">
+      <DependentUpon>frmSesion.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmRegistros.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,6 +68,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSesion.resx">
+      <DependentUpon>frmSesion.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmRegistros.resx">
       <DependentUpon>frmRegistros.cs</DependentUpon>
@@ -97,6 +106,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\REGISTRAR uSUAIRO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NuevoFormulario.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

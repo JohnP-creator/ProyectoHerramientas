@@ -9,3 +9,5 @@ C:\Users\jguti\source\repos\PresentacionHerramientas\obj\Debug\PresentacionHerra
 C:\Users\jguti\source\repos\PresentacionHerramientas\obj\Debug\PresentacionHerramientas.csproj.CoreCompileInputs.cache
 C:\Users\jguti\source\repos\PresentacionHerramientas\obj\Debug\PresentacionHerramientas.exe
 C:\Users\jguti\source\repos\PresentacionHerramientas\obj\Debug\PresentacionHerramientas.pdb
+C:\Users\jguti\source\repos\PresentacionHerramientas\obj\Debug\PresentacionHerramientas.frmSesion.resources
+C:\Users\jguti\source\repos\PresentacionHerramientas\obj\Debug\PresentacionHerramientas.frmRegistros.resources
